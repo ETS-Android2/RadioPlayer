@@ -13,4 +13,10 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/purple_700</item>
+        <item name="android:textColorPrimary">@color/purple_700</item>
+        <!--<item name="android:background">@color/grey_dialog_box</item>-->
+    </style>
 </resources>

@@ -1,3 +1,18 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">RadioPlayerApp</string>
+    <string name="home">Home</string>
+    <string name="recently_played">Recently Played</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_station_name">Streaming Radio</string>
+    <string name="app_slogan">…</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="no_internet">No Internet</string>
+    <string name="image_content_description" tools:ignore="ExtraTranslation">Content description</string>
+    <string name="ad_tag_url"><![CDATA[https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dlinear&correlator=]]></string>
+    <string name="request_ad" translation_description="label of the button to request an ad. [CHAR LIMIT=50]">Request Ad</string>
+    <string name="exit">Really Exit?</string>
+    <string name="are_you_sure_want">Are you sure you want to exit?</string>
+    <string name="loading">Loading...</string>
 </resources>
